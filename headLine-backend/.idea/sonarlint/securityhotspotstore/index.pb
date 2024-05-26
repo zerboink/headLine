@@ -18,13 +18,7 @@ o
 S
 #src/main/resources/application.yaml,8\b\8bf9a0c76cee89021a19081a2d70237db7e2fd8a
 E
-sql/create_tables.sqo,3\6\36ff82c99310ff0d4c812dff0552c3b23bbe14c1
-E
 sql/create_tables.sql,0\d\0d69d9b933bbe160c17eec404892e00d34137cf9
-c
-3src/main/java/com/atguigu/config/SwaggerConfig.java,5\c\5cd9ac163b2b1fd8f92e90e77e5ae420a503cf40
-c
-3src/main/java/com/atguigu/config/Knife4jConfig.java,e\c\ec7615a810f08b0e22340d939baf7293d84e1e19
 h
 8src/main/java/com/atguigu/controller/UserController.java,3\3\33f8d762c2c7895d54b7dcab831e9cb8b84af011
 j
