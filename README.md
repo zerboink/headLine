@@ -36,6 +36,7 @@
 
 
 - 注册
+
 ![image](https://github.com/zerboink/headLine/blob/master/iamge/regist.png)
 
 
